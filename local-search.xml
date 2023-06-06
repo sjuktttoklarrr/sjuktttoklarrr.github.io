@@ -8,7 +8,7 @@
     <link href="/2023/06/06/title/"/>
     <url>/2023/06/06/title/</url>
     
-    <content type="html"><![CDATA[<h1 id="用ps制作人物海报"><a href="#用ps制作人物海报" class="headerlink" title="用ps制作人物海报"></a>用ps制作人物海报</h1><ul><li>Part.1<br>打开PS，拖入素材，轻微调整人物位置。<br><img src="C:/Users/86175/Desktop/微信图片_20230606110917.jpg" alt="1"></li><li>Part.2<br>ctrl+shift+U，对人物进行去色。</li><li>Part.3<br>ctrl+I，对人物进行反向。</li><li>Part.4<br>ctrl+L，调出色阶，调整黑白滑块，注意不要太过。</li><li>Part.5<br>ctrl+A全选，ctrl+C复制，ctrl+D取消选区。</li><li>Part.6<br>回到通道，新建Alpha通道，ctrl+V 粘贴，ctrl+D 取消选区。</li><li>Part.7<br>按住ctrl，鼠标左键单击通道缩略图，调出选区，回到RGB通道，回到图层。</li><li>Part.8<br>新建空白图层，填充纯黑色。</li><li>Part.9<br>将原本人物关掉，选择矩形工具，改变颜色。</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="用ps制作人物海报"><a href="#用ps制作人物海报" class="headerlink" title="用ps制作人物海报"></a>用ps制作人物海报</h1><ul><li>Part.1<br>打开PS，拖入素材，轻微调整人物位置。<br><img src="https://pic.imgdb.cn/item/647f19111ddac507ccf2b65b.jpg" alt="1"></li><li>Part.2<br>ctrl+shift+U，对人物进行去色。<br>![2]</li><li>Part.3<br>ctrl+I，对人物进行反向。<br>![3]</li><li>Part.4<br>ctrl+L，调出色阶，调整黑白滑块，注意不要太过。<br>![4]</li><li>Part.5<br>ctrl+A全选，ctrl+C复制，ctrl+D取消选区。<br>![5]</li><li>Part.6<br>回到通道，新建Alpha通道，ctrl+V 粘贴，ctrl+D 取消选区。<br>![6]<br>![7]</li><li>Part.7<br>按住ctrl，鼠标左键单击通道缩略图，调出选区，回到RGB通道，回到图层。<br>![8]</li><li>Part.8<br>新建空白图层，填充纯黑色。<br>![9]</li><li>Part.9<br>将原本人物关掉，选择矩形工具，改变颜色。<br>![10]</li></ul>]]></content>
     
     
     
